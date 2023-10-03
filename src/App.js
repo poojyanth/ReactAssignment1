@@ -24,7 +24,7 @@ function App() {
     indexOfFirstItem,
     indexOfLastItem
   );
-
+  
   // Pagination logic
   const totalPages = Math.ceil(filteredProducts.length / itemsPerPage);
 
