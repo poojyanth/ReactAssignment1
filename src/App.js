@@ -36,7 +36,7 @@ function App() {
   useEffect(() => {
     setCurrentPage(1);
     // change the window location to the first page
-    window.history.pushState(null, null, `/page/1`);
+    window.history.pushState(null, null, `StaziTechAssignment1/page/1`);
   }, [searchQuery]);
 
   return (
