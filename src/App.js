@@ -41,6 +41,7 @@ function App() {
 
   return (
         <Router>
+
       <div>
       <nav className='navbar'>
             <div className='navbar__search'>
