@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/StaziTechAssignment1/static/css/main.cb4cb703.css",
-    "main.js": "/StaziTechAssignment1/static/js/main.f4068812.js",
+    "main.js": "/StaziTechAssignment1/static/js/main.ad0a725e.js",
     "static/media/uicons-regular-rounded-QXG46O7V.eot": "/StaziTechAssignment1/static/media/uicons-regular-rounded-QXG46O7V.7f3cbccd6c1dad5b5c3d.eot",
     "static/media/uicons-bold-rounded-CJXWQMMG.eot": "/StaziTechAssignment1/static/media/uicons-bold-rounded-CJXWQMMG.d839cd24e81b03a3ae73.eot",
     "static/media/uicons-solid-rounded-3CHVJWAY.eot": "/StaziTechAssignment1/static/media/uicons-solid-rounded-3CHVJWAY.db4b69f1f366dd7c3690.eot",
@@ -25,10 +25,10 @@
     "static/media/uicons-brands-MQU4AHEF.woff2": "/StaziTechAssignment1/static/media/uicons-brands-MQU4AHEF.4dc54c67b0130a18171d.woff2",
     "index.html": "/StaziTechAssignment1/index.html",
     "main.cb4cb703.css.map": "/StaziTechAssignment1/static/css/main.cb4cb703.css.map",
-    "main.f4068812.js.map": "/StaziTechAssignment1/static/js/main.f4068812.js.map"
+    "main.ad0a725e.js.map": "/StaziTechAssignment1/static/js/main.ad0a725e.js.map"
   },
   "entrypoints": [
     "static/css/main.cb4cb703.css",
-    "static/js/main.f4068812.js"
+    "static/js/main.ad0a725e.js"
   ]
 }
